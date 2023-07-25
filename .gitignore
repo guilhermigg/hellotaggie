@@ -1,0 +1,5 @@
+Jenkins/jenkins_home
+.vs
+.git
+**/bin
+**/obj
